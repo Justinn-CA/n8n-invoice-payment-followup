@@ -1,0 +1,9 @@
+# Secrets and local config
+.env
+*.key
+credentials*.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
